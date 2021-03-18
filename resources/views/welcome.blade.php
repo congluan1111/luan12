@@ -87,21 +87,21 @@ style="width:1350px;height:1000px;">
       <div class="row">
       <div class="col-md-4">
          <div class="about1-content">
-           <u> VIETLINK.</u>
-            <br>Địa chỉ: 359 Đường Nguyễn Văn Cử - Phường An Hòa - Quận Ninh Kiều - TP. Cần Thơ.
-            <br>Điện thoại: 0398484644 - Luận.
-            <br>Email: nguyencongluan110898@gmail.com.
+         <a href="#"><u> VIETLINK.</u></a>
+           <br>Địa chỉ: 359 Đường Nguyễn Văn Cử - Phường An Hòa - Quận Ninh Kiều - TP. Cần Thơ.
+            <br>Điện thoại:<a href="#">  0398484644 - Luận.</a>
+            <br>Email:<a href="#"> nguyencongluan110898@gmail.com.</a>
             <br>
           </div>
           </div>
          <div class="col-md-4">
-           <u> DANH MỤC SẢN PHẨM</u> 
+         <a href="#"><u> DANH MỤC SẢN PHẨM</u> </a>
             <br>Chế phẩm sinh học.
             <br>Dinh dưỡng.
             <BR>Kháng sinh.
          </div>
          <div class="col-md-4">
-           <u> CHÍNH SÁCH</u>
+         <a href="#"> <u> CHÍNH SÁCH</u></a>
             <br>Hướng dẫn mua hàng.
             <br>Thanh toán.
             <br>Giao diện.
