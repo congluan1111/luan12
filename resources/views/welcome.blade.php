@@ -80,12 +80,14 @@ style="width:1350px;height:1000px;">
 
 
 <section id="about1">
+   
     <ul>Dịch vụ</ul>
+   
       <div class="container">
       <div class="row">
       <div class="col-md-4">
          <div class="about1-content">
-            VIETLINK.
+           <u> VIETLINK.</u>
             <br>Địa chỉ: 359 Đường Nguyễn Văn Cử - Phường An Hòa - Quận Ninh Kiều - TP. Cần Thơ.
             <br>Điện thoại: 0398484644 - Luận.
             <br>Email: nguyencongluan110898@gmail.com.
@@ -93,11 +95,17 @@ style="width:1350px;height:1000px;">
           </div>
           </div>
          <div class="col-md-4">
-            DANH MỤC SẢN PHẨM 
-            <BR>
+           <u> DANH MỤC SẢN PHẨM</u> 
+            <br>Chế phẩm sinh học.
+            <br>Dinh dưỡng.
+            <BR>Kháng sinh.
          </div>
          <div class="col-md-4">
-            dakdgdj
+           <u> CHÍNH SÁCH</u>
+            <br>Hướng dẫn mua hàng.
+            <br>Thanh toán.
+            <br>Giao diện.
+            <br>Điều khoản.
          </div>
       </div>
       </div>
